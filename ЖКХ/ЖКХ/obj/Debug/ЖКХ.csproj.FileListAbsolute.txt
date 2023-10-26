@@ -1,0 +1,45 @@
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\bin\Debug\ЖКХ.exe.config
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\bin\Debug\ЖКХ.exe
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\bin\Debug\ЖКХ.pdb
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\obj\Debug\ЖКХ.csproj.AssemblyReference.cache
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\obj\Debug\ЖКХ.AdminPassword.resources
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\obj\Debug\ЖКХ.Login.resources
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\obj\Debug\ЖКХ.Properties.Resources.resources
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\obj\Debug\ЖКХ.Registration.resources
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\obj\Debug\ЖКХ.csproj.GenerateResource.cache
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\obj\Debug\ЖКХ.csproj.CoreCompileInputs.cache
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\obj\Debug\ЖКХ.exe
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\obj\Debug\ЖКХ.pdb
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\obj\Debug\ЖКХ.AdminMainMenu.resources
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\obj\Debug\ЖКХ.PersonalUser.resources
+F:\Visual Studio\source\repos\ЖКХ\ЖКХ\obj\Debug\ЖКХ.Receipt.resources
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\bin\Debug\ЖКХ.exe.config
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\bin\Debug\ЖКХ.exe
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\bin\Debug\ЖКХ.pdb
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\obj\Debug\ЖКХ.csproj.AssemblyReference.cache
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\obj\Debug\ЖКХ.AdminMainMenu.resources
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\obj\Debug\ЖКХ.AdminPassword.resources
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\obj\Debug\ЖКХ.Login.resources
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\obj\Debug\ЖКХ.Properties.Resources.resources
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\obj\Debug\ЖКХ.Receipt.resources
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\obj\Debug\ЖКХ.Registration.resources
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\obj\Debug\ЖКХ.PersonalUser.resources
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\obj\Debug\ЖКХ.csproj.GenerateResource.cache
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\obj\Debug\ЖКХ.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\obj\Debug\ЖКХ.exe
+C:\Users\danii\OneDrive\Рабочий стол\Курсовая\Программа\ЖКХ\ЖКХ\obj\Debug\ЖКХ.pdb
+C:\Users\all\Desktop\ЖКХ\ЖКХ\bin\Debug\ЖКХ.exe.config
+C:\Users\all\Desktop\ЖКХ\ЖКХ\bin\Debug\ЖКХ.exe
+C:\Users\all\Desktop\ЖКХ\ЖКХ\bin\Debug\ЖКХ.pdb
+C:\Users\all\Desktop\ЖКХ\ЖКХ\obj\Debug\ЖКХ.csprojAssemblyReference.cache
+C:\Users\all\Desktop\ЖКХ\ЖКХ\obj\Debug\ЖКХ.AdminMainMenu.resources
+C:\Users\all\Desktop\ЖКХ\ЖКХ\obj\Debug\ЖКХ.AdminPassword.resources
+C:\Users\all\Desktop\ЖКХ\ЖКХ\obj\Debug\ЖКХ.Login.resources
+C:\Users\all\Desktop\ЖКХ\ЖКХ\obj\Debug\ЖКХ.Properties.Resources.resources
+C:\Users\all\Desktop\ЖКХ\ЖКХ\obj\Debug\ЖКХ.Receipt.resources
+C:\Users\all\Desktop\ЖКХ\ЖКХ\obj\Debug\ЖКХ.Registration.resources
+C:\Users\all\Desktop\ЖКХ\ЖКХ\obj\Debug\ЖКХ.PersonalUser.resources
+C:\Users\all\Desktop\ЖКХ\ЖКХ\obj\Debug\ЖКХ.csproj.GenerateResource.cache
+C:\Users\all\Desktop\ЖКХ\ЖКХ\obj\Debug\ЖКХ.csproj.CoreCompileInputs.cache
+C:\Users\all\Desktop\ЖКХ\ЖКХ\obj\Debug\ЖКХ.exe
+C:\Users\all\Desktop\ЖКХ\ЖКХ\obj\Debug\ЖКХ.pdb
